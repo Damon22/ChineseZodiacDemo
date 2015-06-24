@@ -36,6 +36,7 @@
 		4B58C5941B39AC3500DD8772 /* ChineseZodiacTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ChineseZodiacTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B58C5991B39AC3500DD8772 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4B58C59A1B39AC3500DD8772 /* ChineseZodiacTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChineseZodiacTests.swift; sourceTree = "<group>"; };
+		4B58C5A41B3ABFEC00DD8772 /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +84,7 @@
 				4B58C58B1B39AC3500DD8772 /* Images.xcassets */,
 				4B58C58D1B39AC3500DD8772 /* LaunchScreen.xib */,
 				4B58C5821B39AC3500DD8772 /* Supporting Files */,
+				4B58C5A41B3ABFEC00DD8772 /* MyPlayground.playground */,
 			);
 			path = ChineseZodiac;
 			sourceTree = "<group>";
